@@ -1,5 +1,5 @@
 # Global Wood Density Database
-This is a respository for the Global Wood Density Database (GWDD)
+This is a respository to keep track of issues and potential improvements of the Global Wood Density Database (GWDD) and derived data. Please use the "Issues" tab to:
   - report issues with the GWDD
   - make suggestions for the incorporation of new datasets into future versions of the GWDD
   - identify gaps in taxonomic coverage in the GWDD
