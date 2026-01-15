@@ -1,4 +1,4 @@
-# Global Wood Density Database
+# Global Wood Density Database (GWDD)
 This is a respository to keep track of issues and potential improvements of the Global Wood Density Database (GWDD) and derived data. Please use the "Issues" tab to:
   - report issues with the GWDD
   - make suggestions for the incorporation of new datasets into future versions of the GWDD
@@ -17,3 +17,7 @@ The most up-to-date version of the GWDD (GWDD v.2) can be found on Zenodo: https
 **GWDD v.1**:
 - Chave et al. 2009. Towards a worldwide wood economics spectrum. Ecology Letters 12: 351-366. https://doi.org/10.1111/j.1461-0248.2009.01285.x
 - Zanne et al. 2009. Data from: Towards a worldwide wood economics spectrum. [Data set]. Dryad. https://doi.org/10.5061/dryad.234
+
+## Maintainers
+
+Fabian Jörg Fischer, Jerome Chave, Amy Zanne
