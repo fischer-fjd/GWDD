@@ -11,7 +11,7 @@ The most up-to-date version of the GWDD (GWDD v.2) can be found on Zenodo: https
 ## References
 
 **GWDD v.2**:
-- Fischer et al. 2026. Beyond species means - the intraspecific contribution to global wood density variation. New Phytologist. https://doi.org/10.1111/nph.70860 (in production)
+- Fischer et al. 2026. Beyond species means - the intraspecific contribution to global wood density variation. New Phytologist 249: 2630-2651. https://doi.org/10.1111/nph.70860
 - Fischer et al. 2025. Global Wood Density Database v.2 (GWDD v.2). [Data set]. Zenodo. https://doi.org/10.5281/zenodo.16919509
 
 **GWDD v.1**:
